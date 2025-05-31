@@ -1,19 +1,30 @@
 
+---
+
 🛡️ OmniBlacklist
 
-OmniBlacklist is a massive, multi-category blacklist for chat moderation. With 91,000+ terms, it covers offensive language, NSFW content, racial slurs, scams, exploits, and more — including bypass variants like leetspeak and numeric suffixes.
-
+OmniBlacklist is a massive, multi-category blacklist for advanced chat moderation. With over 91,000 entries, it filters offensive language, NSFW content, racial slurs, scams, exploits, and more — including leetspeak, symbol substitutions, and numeric bypasses.
 
 ---
 
 📦 Versions
 
-Name	Entries	Notes
+God’s Blacklist – Ultra Edition
+Entries: 101,000+
+Maximum protection. Covers extreme NSFW, hate speech, violence, cheats, and deeply obfuscated bypass variants. Designed for full-spectrum, zero-tolerance moderation.
 
-God’s Blacklist – Ultra Edition	101,000+	Maximum coverage: includes extreme NSFW, hate speech, hacks, violence, and deep variant protection
-OmniBlacklist	91,000+	Full version: all terms, all variants, max protection
-Super Blacklist	70,000+	Extended list: most categories, strict filtering
-Full Blacklist	32,000+	Core list: essential terms with basic obfuscation handling
+OmniBlacklist
+Entries: 91,000+
+Full version. Includes all major categories with extensive variant coverage, including leetspeak, symbols, and number substitutions.
+
+Super Blacklist
+Entries: 70,000+
+Extended list with strict filtering. Covers profanity, adult content, cheats, slurs, and common bypass tricks.
+
+Full Blacklist
+Entries: 32,000+
+Essential terms only. Lightweight and fast — great for default setups with basic obfuscation handling.
+Name	Entries	Description
 
 
 
@@ -21,72 +32,64 @@ Full Blacklist	32,000+	Core list: essential terms with basic obfuscation handlin
 
 📁 File Format
 
-Plain .txt file (UTF-8)
+Plain .txt (UTF-8)
 
 One word or variant per line
 
-Ready for use in Discord bots, custom filters, moderation systems
-
+Plug-and-play for moderation systems, bots, or filters
 
 
 ---
 
-✅ Categories Covered
+✅ Categories Included
 
-Profanity & insults
+Profanity and insults
 
-NSFW / adult content
+NSFW and adult content
 
-Racial & hate speech
+Racist, homophobic, and hate speech
 
-Game exploits & cheat tools
+Game hacks, cheats, and exploits
 
 Scams, phishing, malware
 
-Suicide encouragement & threats
+Suicide encouragement and self-harm
 
-Moderator abuse & spam
+Violence, gore, terrorism, and threats
 
-Violence, gore, terrorism
+Illegal content, doxxing, and financial fraud
 
-Self-harm & illegal content
-
-Political extremism, doxxing, financial fraud
+Political extremism and propaganda
 
 
-Includes bypasses like:
-n1gger, p0rn, ch3at, scam123, f4ggot, h4ck, bo0bs, kys, s3lfh@rm, h0l0c@ust, p3d0, etc.
-
+Bypass examples:
+n1gger, p0rn, f4gg0t, scam123, ch3at, kys, ped0, s3lfh@rm, h0l0c@ust, cr@ck, h4ck, v14gr@
 
 ---
 
 💡 Use Cases
 
-Chat filters (Discord, Twitch, Telegram)
+Chat filters (Discord, Twitch, Telegram, etc.)
 
-Moderation bots (Node.js, Python, etc.)
+Moderation bots (Python, Node.js, Go, etc.)
 
-Web or game anti-abuse systems
+Web/game anti-abuse systems
 
-Offensive content detection for AI/NLP tools
+NLP tools for toxicity detection
 
-Parental controls, school systems, or enterprise content moderation
-
-
+Parental control or education platforms
 
 ---
 
 ⚠️ Disclaimer
 
-This list contains extremely offensive words and slurs used only for moderation and research purposes. Do not use this dataset for harm, abuse, discrimination, or harassment.
-
+This list contains extremely offensive and disturbing language used strictly for moderation and safety purposes. Do not use for abuse, harm, discrimination, or harassment.
 
 ---
 
 📬 Contact & Contributions
 
-Want a JSON version, regex format, or category split?
+Need JSON, RegEx, or category-separated versions?
 Found missing terms or have suggestions?
 Open an issue or contact the maintainer.
-
 
